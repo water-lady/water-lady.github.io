@@ -138,7 +138,7 @@ title: Projects
         <p><strong>Location:</strong> Texas</p>
         <p><strong>Scope:</strong> Wastewater treatment system commissioning support.</p>
         <p><strong>Role:</strong> Design Team Commissioning Support</p>
-      </div>-->   
+      </div>  
     </div>
   </section>
 </div>
